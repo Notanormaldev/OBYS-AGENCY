@@ -30,4 +30,15 @@ This project is for learning and practice purposes, inspired by the original [Ob
 - CSS – Styling & Layout  
 - JavaScript – Animations & Interactions  
 
+---
 
+
+👨‍💻 About Me
+
+Hi, I'm Harsh 👋 — a passionate Front-End Developer who loves building modern, responsive, and animated web experiences.  
+I work with HTML, CSS, JavaScript, React.js, Redux, GSAP, and Locomotive Scroll to create smooth, interactive websites.  
+
+- 🌐 Project: [Obys Agency Clone](https://notanormaldev.github.io/OBYS-AGENCY/)  
+- 💻 Other Projects: Coming soon...  
+- 📫 Reach me at: harshpatel20050@gmail.com  
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/harsh-patel-a77148314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
