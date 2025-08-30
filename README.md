@@ -17,7 +17,7 @@ This project is for learning and practice purposes, inspired by the original [Ob
 
 
 🎥 Demo Video
-![Demo](./assets/Obys-Agency-vd.mp4)
+![Demo](./assets/Obys-Agency-video.mp4)
 
 ---
 
